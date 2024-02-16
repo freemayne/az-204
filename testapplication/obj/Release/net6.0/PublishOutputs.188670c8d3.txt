@@ -1,0 +1,7 @@
+C:\Users\specar\source\repos\testapplication\testapplication\obj\Release\net6.0\PubTmp\Out\testapplication.exe
+C:\Users\specar\source\repos\testapplication\testapplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\specar\source\repos\testapplication\testapplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\specar\source\repos\testapplication\testapplication\obj\Release\net6.0\PubTmp\Out\testapplication.dll
+C:\Users\specar\source\repos\testapplication\testapplication\obj\Release\net6.0\PubTmp\Out\testapplication.deps.json
+C:\Users\specar\source\repos\testapplication\testapplication\obj\Release\net6.0\PubTmp\Out\testapplication.runtimeconfig.json
+C:\Users\specar\source\repos\testapplication\testapplication\obj\Release\net6.0\PubTmp\Out\testapplication.pdb

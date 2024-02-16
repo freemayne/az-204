@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5L2Ay05POvwEIqPT/XEPBywga/o+1QFEhwZU1BFLCC+++mAClsTircCDBvV1JuuflkNoVeGJzgIlvMvLQbDoYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\specar\\source\\repos\\testapplication\\testapplication\\testapplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\specar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\specar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\specar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\specar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
